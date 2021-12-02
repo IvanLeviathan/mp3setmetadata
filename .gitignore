@@ -1,0 +1,8 @@
+node_modules
+*.bat
+*.rar
+*.exe
+*-macos
+*-linux
+build
+package-lock.json

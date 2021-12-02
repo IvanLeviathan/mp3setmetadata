@@ -1,0 +1,17 @@
+{
+  "name": "mp3setmetadata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "pkg app.js"
+  },
+  "bin": "app.js",
+  "author": "IvanLeviathan",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "ffmetadata": "^1.7.0"
+  }
+}
